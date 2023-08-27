@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar ul {
+    justify-content: flex-end;
+    align-items: center;
+   display: flex;
+   margin-top: 50px;
+   padding: 30px;
+      
+}
+.navbar ul li{
+    word-spacing: 59px;
+    list-style: none;
+  }
+  .navbar ul button{
+    position: relative;
+     top: -60px;
+     font-size: 20px;
+     color: #ffffff;
+     background-color: #0984e3;
+     outline: none;
+     border-radius: 2px;
+     padding: 5px;
+     padding-left: -10px;
+     border: none;
+  }
+  .img{
+    position: relative;
+    top: -57px;
+    left: -30px;
+    
+  }
+  .navbar ul a{
+    text-decoration: none;
+    position: relative;
+    top: -60px;
+   right: 52px;
+   color: black;
+  }
+  .gm{
+    position: relative;
+    right: 25px;
+
+  }
+  .ddd{
+    text-align: center;
+    margin-top: 40px;
+    }
+    .ddd input{
+        width: 550px;
+        height: 38px;
+        position: relative;
+        top: 30px;
+        border-radius: 30px;
+        box-shadow: 10px 10px #f5f6fa;
+    }
+    .dd img {
+        position: relative;
+        left: 50px;
+    }
+    .cont{
+        position: relative;
+        left: 513px;
+        top: -4px;
+        word-spacing: 460px;
+    }
+    .good button{
+        position: relative;
+        left: 600px;
+        top: 40px;
+        border: none;
+    }
+    .feel{
+        position: relative;
+        left:800px ;
+        top: 18px;
+        border: none;
+    }
+    p{
+        position: relative;
+        left: 670px;
+        top:25px;
+    }
+
+    .bd{
+      background-color: #ecf0f1;
+      position: relative;
+      top: 200px;
+      left: -10px;
+      padding: 20px;
+      height: 50px;
+    }
+    .bd ul{
+      list-style: none;
+      display: flex;
+      
+    }
+    .bd ul li{
+     margin-right: 20px;
+     position: relative;
+     top: 5px;
+     left: -15px;
+    }
+    .SSS ul{
+     list-style: none;
+     display: flex;
+    }
+    .SSS ul li{
+      margin-right: 20px;
+      position: relative;
+      left: 1200px;
+      top: 155px;
+    }
+   
